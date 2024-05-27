@@ -1,0 +1,5 @@
+1. Cargar Equipos (Ropa,Zapatos, Antiparras,…).
+2. Cargar Clientes
+3. Cargar Empleados
+4. Cargar Pedidos de Artículos Asignados a los Clientes.
+5. Mostrar los pedidos de los Clientes.
